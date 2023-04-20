@@ -1,3 +1,3 @@
 # lab6_web
 
-![folder](img/1.jpeg)
+![folder](gambar/1.jpeg)
